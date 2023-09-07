@@ -3,9 +3,9 @@ import "./index.css";
 import firebase from "firebase/compat/app";
 import "firebase/compat/database";
 
-const redImg = "/Port-2.png";
-const greenImg = "/Port-4.png";
-const connector = "/Connectors.png";
+const redImg = "./Port-2.png";
+const greenImg = "./Port-4.png";
+const connector = "./Connectors.png";
 
 const Ports = () => {
   const [data, setData] = useState(null);
