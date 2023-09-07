@@ -1,0 +1,17 @@
+.client-usage-header {
+  margin-top: 80px;
+  text-align: left;
+  margin-left: 80px;
+  color: #6e6c6c;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.display-clientusage {
+  height: 200px;
+  width: 1130px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 25px;
+}
